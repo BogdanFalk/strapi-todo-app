@@ -20,6 +20,12 @@
     },
     "actions": {
       "collection": "action"
+    },
+    "firstName": {
+      "type": "string"
+    },
+    "lastName": {
+      "type": "string"
     }
   }
 }
